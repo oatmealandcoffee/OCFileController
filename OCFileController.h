@@ -3,7 +3,7 @@
 //  Ratchet
 //
 //  Created by Philip Regan on 5/17/13.
-//  Copyright (c) 2013 Jones & Bartlett Learning. All rights reserved.
+//  Copyright (c) 2013 Philip Regan. All rights reserved.
 //
 
 /*
